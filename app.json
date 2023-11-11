@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "JobIt",
-    "slug": "JobIt"
+    "slug": "JobIt",
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
   }
 }
